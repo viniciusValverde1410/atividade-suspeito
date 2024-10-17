@@ -1,0 +1,15 @@
+{
+  "name": "atividade-suspeito",
+  "version": "1.0.0",
+  "description": "Atividade proposta em sala de aula pelo professor Felipe",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BACK-END",
+    "SENAI"
+  ],
+  "author": "Vinicius Valverde",
+  "license": "MIT"
+}
